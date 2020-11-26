@@ -1,10 +1,22 @@
 # NgStarter
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
+* This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
+* This project was created as a starter project to be forked.
+
+Features:
+* Routing
+* SCSS
+* Shared module with base http service
+* SCSS directory:
+    * CSS Reset
+    * Boostrap utility classes (extended)
+    * Breakpoint scss mixin for easier mobile-first development
+    * CSS Variables (CSS Properties) for customization
+
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `npm run dev` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
